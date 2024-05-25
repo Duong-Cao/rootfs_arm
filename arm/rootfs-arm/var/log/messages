@@ -1,0 +1,31 @@
+Dec  2 18:19:06 192 syslog.info syslogd started: BusyBox v1.36.1
+Dec  2 18:19:14 192 auth.info login[34]: root login on 'console'
+Dec  2 18:21:57 192 auth.info passwd: password for root changed by root
+Dec  2 18:22:04 192 daemon.info : process '/sbin/getty 115200 console' (pid 34) exited. Scheduling for restart.
+Dec  2 18:22:05 192 daemon.info : starting pid 46, tty '': '/sbin/getty 115200 console'
+Dec  2 18:22:09 192 auth.info login[46]: root login on 'console'
+Dec  3 15:28:22 192 syslog.info syslogd started: BusyBox v1.36.1
+Dec  3 15:28:34 192 auth.warn login[34]: invalid password for 'duogcao' on 'console'
+Dec  3 15:32:50 192 syslog.info syslogd started: BusyBox v1.36.1
+Dec  3 15:51:27 192 syslog.info syslogd started: BusyBox v1.36.1
+Dec  3 17:09:04 192 syslog.info syslogd started: BusyBox v1.36.1
+Dec  3 17:12:44 192 daemon.info : process '/sbin/getty 115200 console' (pid 33) exited. Scheduling for restart.
+Dec  3 17:12:45 192 daemon.info : starting pid 38, tty '': '/sbin/getty 115200 console'
+Dec  3 17:12:49 192 auth.info login[38]: root login on 'console'
+Dec  3 17:13:20 192 daemon.info : process '/sbin/getty 115200 console' (pid 38) exited. Scheduling for restart.
+Dec  3 17:13:21 192 daemon.info : starting pid 41, tty '': '/sbin/getty 115200 console'
+Dec  3 17:20:17 192 daemon.info : process '/sbin/getty 115200 console' (pid 41) exited. Scheduling for restart.
+Dec  3 17:22:01 192 syslog.info syslogd started: BusyBox v1.36.1
+Dec  3 17:23:28 192 daemon.info : process '/sbin/getty 115200 console' (pid 33) exited. Scheduling for restart.
+Dec  3 17:23:29 192 daemon.info : starting pid 40, tty '': '/sbin/getty 115200 console'
+Dec  3 17:23:32 192 auth.info login[40]: root login on 'console'
+Dec  3 17:26:55 192 syslog.info syslogd started: BusyBox v1.36.1
+Dec  4 02:11:53 192 syslog.info syslogd started: BusyBox v1.36.1
+Dec  4 06:04:42 192 syslog.info syslogd started: BusyBox v1.36.1
+Dec  4 06:04:50 192 auth.info login[33]: root login on 'console'
+Dec  8 16:47:47 192 syslog.info syslogd started: BusyBox v1.36.1
+Dec  8 16:51:48 192 daemon.info : process '/sbin/getty 115200 console' (pid 34) exited. Scheduling for restart.
+Dec  8 16:51:49 192 daemon.info : starting pid 53, tty '': '/sbin/getty 115200 console'
+Dec  8 16:51:53 192 auth.info login[53]: root login on 'console'
+Dec  8 16:53:26 192 daemon.info : process '/sbin/getty 115200 console' (pid 53) exited. Scheduling for restart.
+Dec 10 06:53:40 192 syslog.info syslogd started: BusyBox v1.36.1

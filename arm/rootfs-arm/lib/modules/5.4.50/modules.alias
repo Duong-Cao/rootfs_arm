@@ -1,0 +1,8 @@
+# Aliases extracted from modules themselves.
+alias fs-vfat vfat
+alias 8250_core 8250
+alias char-major-4-* 8250
+alias char-major-116-* snd
+alias devname:snd/timer snd_timer
+alias char-major-116-33 snd_timer
+alias amba:d???41041 snd_aaci
